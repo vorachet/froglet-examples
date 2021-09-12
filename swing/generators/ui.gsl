@@ -7,7 +7,6 @@ import javax.swing.*;
 public class $(switches.arg2) {  
    public static void main(String[] args) {  
       JFrame f = new JFrame();
-      f.setLayout (new BoxLayout (BoxLayout.Y_AXIS));  
 .for row
 .for input
       JTextField $(name)TextField  = new JTextField("$(label)");          
